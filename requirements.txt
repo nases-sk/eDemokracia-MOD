@@ -1,0 +1,84 @@
+Babel==0.9.6
+Beaker==1.6.4
+FormAlchemy==1.4.3
+FormEncode==1.2.6
+Genshi==0.6
+Jinja2==2.6
+Mako==0.9.0
+MarkupSafe==0.18
+Pairtree==0.7.1-T
+Paste==1.7.5.1
+PasteDeploy==1.5.0
+PasteScript==1.7.5
+Pygments==1.6
+Pylons==0.9.7
+Routes==1.13
+SQLAlchemy==0.7.8
+Tempita==0.5.1
+WebError==0.10.3
+WebHelpers==1.3
+WebOb==1.0.8
+WebTest==1.4.3
+apachemiddleware==0.1.1
+argparse==1.2.1
+decorator==3.4.0
+fanstatic==0.12
+nose==1.3.0
+ofs==0.4.1
+psycopg2==2.4.5
+python-dateutil==1.5
+python-openid==2.2.5
+pyutilib.component.core==4.5.3
+repoze.lru==0.6
+repoze.who==1.0.19
+repoze.who-friendlyform==1.0.8
+repoze.who.plugins.openid==0.5.3
+requests==1.1.0
+simplejson==3.3.1
+solrpy==0.9.5
+sqlalchemy-migrate==0.7.2
+unicodecsv==0.9.4
+vdm==0.11
+wsgiref==0.1.2
+zope.interface==4.1.1
+CherryPy==3.6.0
+#ckanext-sla
+hurry.filesize
+#ckanext-archiver
+celery==2.4.2
+kombu==2.1.3
+kombu-sqlalchemy==1.1.0
+messytables>=0.1.4
+flask==0.8  # flask needed for tests
+#ckanext-spatial
+GeoAlchemy>=0.6
+GeoAlchemy2>=0.2.4
+Shapely>=1.2.13
+OWSLib==0.8.6
+lxml>=2.3
+pyparsing==1.5.6
+-e git+https://github.com/microcomp/ckanext-add_to_profile.git@master#egg=ckanext-add_to_profile
+-e git+https://github.com/microcomp/ckanext-api_management.git@master#egg=ckanext-api_management
+-e git+https://github.com/microcomp/ckanext-apps_and_ideas.git@master#egg=ckanext-apps_and_ideas
+-e git+https://github.com/microcomp/ckanext-archiver.git@master#egg=ckanext-archiver
+-e git+https://github.com/microcomp/ckanext-audit.git@master#egg=ckanext-audit
+-e git+https://github.com/OpenDataNode/ckanext-audited-datastore-api.git@EDEM#egg=ckanext-audited-datastore-api
+-e git+https://github.com/microcomp/ckanext-cas.git@master#egg=ckanext-cas
+-e git+https://github.com/microcomp/ckanext-dataset.git@master#egg=ckanext-dataset
+-e git+https://github.com/microcomp/ckanext-dataset_comments.git@master#egg=ckanext-dataset_comments
+-e git+https://github.com/microcomp/ckanext-dataset_likes.git@master#egg=ckanext-dataset_likes
+-e git+https://github.com/microcomp/ckanext-dataset_rating.git@master#egg=ckanext-dataset_rating
+-e git+https://github.com/microcomp/ckanext-edem.git@feature/session_role_access#egg=ckanext-edem
+-e git+https://github.com/microcomp/ckanext-notifications.git@master#egg=ckanext-notifications
+-e git+https://github.com/microcomp/ckanext-notification_api.git@master#egg=ckanext-notification_api
+-e git+https://github.com/OpenDataNode/ckanext-odn-pipeline.git@EDEM#egg=ckanext-odn-pipeline
+-e git+https://github.com/microcomp/ckanext-responsive_design.git@master#egg=ckanext-responsive_design
+-e git+https://github.com/microcomp/ckanext-sla.git@master#egg=ckanext-sla
+-e git+https://github.com/microcomp/ckanext-sparql.git@master#egg=ckanext-sparql
+-e git+https://github.com/microcomp/ckanext-spatial.git@master#egg=ckanext-spatial
+-e git+https://github.com/microcomp/ckanext-storage-admin.git@develop#egg=ckanext-storage-admin
+-e git+https://github.com/microcomp/ckanext-storage-admin-gui.git@master#egg=ckanext-storage-admin-gui
+-e git+https://github.com/microcomp/ckanext-tags.git@master#egg=ckanext-tags
+-e git+https://github.com/microcomp/ckanext-torrent.git@master#egg=ckanext-torrent
+-e git+https://github.com/microcomp/ckanext-qa.git@master#egg=ckanext-qa
+-e git+https://github.com/microcomp/repoze.who.plugins.cas.git@master#egg=repoze.who.plugins.cas
